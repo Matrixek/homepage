@@ -1,0 +1,11 @@
+.aside__content {
+    color: rgb(35, 14, 132);
+}
+
+.list__item--link:hover {
+    background-color: yellow;
+    color: red;
+    text-decoration: none;
+    border-bottom: 1px solid red;
+    outline: none;
+}

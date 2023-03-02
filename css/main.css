@@ -1,0 +1,9 @@
+.main__heading {
+    color: rgb(35, 14, 132);
+}
+
+.main__content {
+    border: 2px solid red;
+    border-radius: 10px;
+    padding: 10px;
+}

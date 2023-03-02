@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(125, 205, 125);
+    margin: auto;
+    max-width: 1000px;
+    padding: 10px
+}
+
+.image {
+    padding: 20px;
+    margin: 0 auto;
+    display: block;
+    max-height: 200px;
+}
+
+.content__button {
+    font-size: 20px;
+    margin: auto;
+    box-shadow: inset 5px -5px 59px 15px #ffc908;
+}
+
+.text {
+    color: red;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header {
+    color: red;
+    background-color: #b9b91d;
+    text-align: center;
+}
+
+.body--background {
+    background-color: rgb(86, 168, 239);
+}

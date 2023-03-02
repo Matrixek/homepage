@@ -1,0 +1,33 @@
+.table__caption {
+    color: blue;
+    font-size: 20px;
+}
+
+.table__row:hover {
+    background-color: white;
+    color: black;
+}
+
+.table__cell {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    vertical-align: top;
+    font-size: 17px;
+}
+
+.table__cell--header {
+    background-color: red;
+    font-weight: normal;
+}
+
+.table__caption {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 3.0;
+}
+.table {
+    border-collapse: collapse;
+    width: 100%;
+}
